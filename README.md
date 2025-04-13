@@ -21,6 +21,6 @@ Make sure your device has enough storage space
 It is recommended to use it in a stable network environment
 
 Install dependencies and run：
-npm install
-npm install -g expo-cli（If not installed yet）
-npx expo start
+npm install,
+npm install -g expo-cli（If not installed yet）,
+npx expo start,
